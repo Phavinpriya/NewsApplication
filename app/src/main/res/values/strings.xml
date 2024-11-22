@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">news application</string>
+    <string name="title_activity_registration">title_activity_registration</string>
+    <string name="title_activity_display_news">title_activity_display_news</string>
+</resources>
